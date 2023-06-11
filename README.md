@@ -51,7 +51,7 @@
   ## :globe_with_meridians: Мои контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/romananurovweb)
-[![Mail](https://img.shields.io/badge/@mail-DAA520?style=for-the-badge&logo%40-%20mail-informational=mail&l?logoColor=DAA520)](mailto:anurovroman@yandex.ru)
+[![Mail](https://img.shields.io/badge/@yandex-DAA520?style=for-the-badge&logo%40-%20yandex-informational=yandex&l?logoColor=DAA520)](mailto:anurovroman@yandex.ru)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomanAnurov)](https://git.io/streak-stats)
