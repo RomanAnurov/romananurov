@@ -2,11 +2,11 @@
 ## Рад приветствовать вас на своей странице 
 ## GitHub! 
 ![Header](https://github.com/RomanAnurov/romananurov/blob/main/images/gitimage.jpg?raw=true)
-* Я начинающий Web-разработчик. Обучался в Yandex Practicum на факультете web-разработки. 
 
-*  Закончил обучение в июне 2023г.
 
-*  С 21 июня 2023г. работаю в webстудии Frontend-разработчиком.
+* Работаю в webстудии Frontend-разработчиком.
+* Ищу работу в интересной компании или проекте на full time
+
 
 
 
