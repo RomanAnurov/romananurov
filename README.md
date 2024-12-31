@@ -4,10 +4,7 @@
 ![Header](https://github.com/RomanAnurov/romananurov/blob/main/images/gitimage.jpg?raw=true)
 
 
-* Работаю в webстудии Frontend-разработчиком.
-* Ищу работу в интересной компании или проекте на full time
-
-
+* Работаю в крутой компании 
 
 
 ## Мой стэк: 
